@@ -7,6 +7,8 @@ function sum(a, b) {
     return a + b;
 }
 
+
+
 // Unused variable
 let unusedVar = 42;
 
